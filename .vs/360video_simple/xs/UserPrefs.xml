@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{967E8A33-BE88-1D70-74BB-7D9C0BD87E4E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MouseCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VideoSet.cs">
     <Files>
-      <File FileName="Assets/Scripts/MouseCamera.cs" Line="32" Column="13" />
+      <File FileName="Assets/Scripts/MouseCamera.cs" Line="33" Column="10" />
+      <File FileName="Assets/Scripts/VideoSet.cs" Line="14" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
